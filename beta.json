@@ -1,11 +1,11 @@
 {
-  "version": "0.0.75",
-  "notes": "SellerQ v0.0.75",
-  "pub_date": "2026-11-13T22:51:56+00:00",
+  "version": "0.0.76",
+  "notes": "SellerQ v0.0.76",
+  "pub_date": "2026-11-15T05:58:01+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR21TL3lKOFpmN2xFd1RKSittaVJ1SHhyZmZTSTlNNC9Ld3JTaWdWcnE5dzlmcWRhaGE4dEU4ekx5dFZKR0sxMmVXdEd1Z0Q5azlaajNFbSsyK2QzTnpUUk1IMmNOenc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjEwMjgxCWZpbGU6U2VsbGVyUV8wLjAuNzVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC43NQpibk54NzZMSHRQeHlhOHhLQk9McGFaNHZLd1dsOURQdWdOZE42NE5YM1lsTHRtekZOZVZYdHBVQnp2Tnk4Y1R6S1pDTnFORXZoRVl6aUp5Mng2Y0ZEQT09Cg==",
-      "url": "https://github.com/pandabizlab-pixel/sellerq-releases/releases/download/v0.0.75/SellerQ_0.0.75_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR21TL3lKOFpmN2xLS0FGYXVxa25tU1BTeDV5ckFTZHdtZnpENHljSWZObW9mT1FXTG1uUjFHTXV0alJ1MWRQWVJRTGZmaHBjM29zYVE0WTJwR1FFbVlyNytTZ0Y0MVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzIyMjMyCWZpbGU6U2VsbGVyUV8wLjAuNzZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC43NgpuL1JRaTdKY1hSYUhaS0tMNE95REY2YStXYWZqUCs1K2ZvdkpqUU1RTTFHdXZpK1RwU2pIZHVFOVJPT1ZCeWdSb09qM3o5ZWpqUnBGRFpobkhxSnhCdz09Cg==",
+      "url": "https://github.com/pandabizlab-pixel/sellerq-releases/releases/download/v0.0.76/SellerQ_0.0.76_x64-setup.exe"
     }
   }
 }
